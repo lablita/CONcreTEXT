@@ -84,6 +84,7 @@ For terms that have no annotated concreteness score in the considered sources ([
 - **4th September 2020**: development and distribution of datasets for testing
 - **4th - 24th September 2020**: evaluation windows and collection of participants results
 - **2nd October 2020**: assessment returned to participants
+- **TBD**: report due from participants
 - **30th November – 3rd December 2020**: [EVALITA 2020](http://www.evalita.it/) (co-located with CLiC-it 2020)
 
 
