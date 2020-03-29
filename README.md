@@ -134,7 +134,7 @@ https://doi.org/10.24963/ijcai.2018/22.
 
 [<a name="22">22</a>] Piotr Bojanowski, Edouard Grave, Armand Joulin, and Tomas Mikolov. Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606, 2016.
 
-## Organizers
+## Organisers
 
 - Andrea Amelio Ravelli, Università di Firenze, andreaamelio.ravelli@unifi.it
 - Daniele Radicioni, Università di Torino, daniele.radicioni@unito.it
