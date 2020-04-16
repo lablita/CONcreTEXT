@@ -58,7 +58,10 @@ The dataset will be partitioned into trial and test; these will be released in d
 
 ### Data Format
 
-*TBA*
+The dataset will be released as tab-separated files (one for Italian, one for English) containing 3 fields:
+- ID: the index of the target word in the proposed sentence;
+- POS: the part-of-speech tag of the target word;
+- TEXT: the sentence containing the target to be evaluated.
 
 ### Evaluation
 
