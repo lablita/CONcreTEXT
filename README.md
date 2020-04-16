@@ -54,8 +54,6 @@ The dataset used for this task will be taken from the English-Italian parallel s
 The dataset will be composed by overall 1,000 sentences, and arranged as follows: 500 Italian sentences plus 500 English sentences. For each sentence a target term will be selected, and multiple annotators will be asked to provide it with a concreteness score (1-7 scale). 
 After the annotation, inter-rater agreement will be computed and items featured by reduced Kappa (<.7) will be dropped, so to deliver fully reliable data. Human ratings will be averaged, and the resulting figures will be used as gold standard.
 
-The dataset will be partitioned into trial and test; these will be released in due time (29th May, 2020 and 4th September, 2020, respectively). We are now extracting the sentences to be annotated.
-
 ### Data Format
 
 The dataset will be released as tab-separated files (one for Italian, one for English) containing 3 fields:
