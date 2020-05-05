@@ -1,6 +1,7 @@
 ## News
 
 **05/05/2020**: If you want to participate in the challenge, fill in this [form](https://forms.gle/pXgWVDiMMUYDgeyM7)
+
 **16/03/2020**: We are now online!
 
 ## Menu
