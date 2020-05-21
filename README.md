@@ -147,4 +147,4 @@ https://doi.org/10.24963/ijcai.2018/22.
 
 ## Contacts
 
-*TBA*
+concretext2020@gmail.com
