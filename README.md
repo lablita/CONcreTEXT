@@ -83,7 +83,7 @@ For terms that have no annotated concreteness score in the considered sources ([
 
 ## Important Dates
 
-- **29th May 2020**: development and distribution of data sets for training and development
+- <del>**29th May 2020**</del> **15th June 2020**: development and distribution of data sets for training and development
 - **4th September 2020**: development and distribution of datasets for testing
 - **11th - 17th September 2020**: evaluation windows and collection of participants results
 - **2nd October 2020**: assessment returned to participants
