@@ -142,7 +142,7 @@ https://doi.org/10.24963/ijcai.2018/22.
 - Daniele Radicioni, Università di Torino, daniele.radicioni@unito.it
 - Rossella Varvara, Università di Firenze, rossella.varvara@unifi.it
 - Lorenzo Gregori, Università di Firenze, lorenzo.gregori@unifi.it
-- Andrea Amelio Ravelli, Università di Firenze, andreaamelio.ravelli@unifi.it
+- Andrea Amelio Ravelli, Istituto di Linguistica Computazionale "A. Zampolli" (CNR), Pisa, andreaamelio.ravelli@ilc.cnr.it
 - Maria Montefinese, Università di Padova, maria.montefinese@gmail.com
 
 ## Contacts
