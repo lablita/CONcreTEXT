@@ -139,11 +139,11 @@ https://doi.org/10.24963/ijcai.2018/22.
 
 ## Organisers
 
-- Daniele Radicioni, Università di Torino, daniele.radicioni@unito.it
-- Rossella Varvara, Università di Firenze, rossella.varvara@unifi.it
-- Lorenzo Gregori, Università di Firenze, lorenzo.gregori@unifi.it
-- Andrea Amelio Ravelli, Istituto di Linguistica Computazionale "A. Zampolli" (CNR), Pisa, andreaamelio.ravelli@ilc.cnr.it
-- Maria Montefinese, Università di Padova, maria.montefinese@gmail.com
+- Daniele Radicioni, Università di Torino
+- Rossella Varvara, Università di Firenze
+- Lorenzo Gregori, Università di Firenze
+- Andrea Amelio Ravelli, ItaliaNLP Lab - Istituto di Linguistica Computazionale "A. Zampolli" (CNR) Pisa
+- Maria Montefinese, Università di Padova
 
 ## Contacts
 
