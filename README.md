@@ -142,7 +142,7 @@ https://doi.org/10.24963/ijcai.2018/22.
 - Daniele Radicioni, Università di Torino
 - Rossella Varvara, Università di Firenze
 - Lorenzo Gregori, Università di Firenze
-- Andrea Amelio Ravelli, ItaliaNLP Lab - Istituto di Linguistica Computazionale "A. Zampolli" (CNR) Pisa
+- Andrea Amelio Ravelli, Istituto di Linguistica Computazionale "A. Zampolli" (CNR) Pisa
 - Maria Montefinese, Università di Padova
 
 ## Contacts
