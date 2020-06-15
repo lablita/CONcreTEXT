@@ -1,6 +1,8 @@
 ## News
 
-**15/06/2020**: Join our Google group to receive updates and to submit questions and comments: https://groups.google.com/forum/#!forum/concretext_evalita2020
+**15/06/2020**: Trial Data are ready! Download them [here](https://forms.gle/DMXFwuRtb7k38Giq9)!
+
+**14/06/2020**: Join our Google group to receive updates and to submit questions and comments: https://groups.google.com/forum/#!forum/concretext_evalita2020
 
 **05/05/2020**: If you want to participate in the challenge, fill in this [form](https://forms.gle/pXgWVDiMMUYDgeyM7)
 
@@ -12,7 +14,7 @@
 - [Data Description](#data-description)
 - [How to Participate](#how-to-participate)
 - [Important Dates](#important-dates)
-- [Organizers](#organizers)
+- [Organisers](#organisers)
 - [Contacts](#contacts)
 
 
@@ -81,7 +83,11 @@ For terms that have no annotated concreteness score in the considered sources ([
 
 ## How to Participate
 
-*TBA*
+If you want to participate, follow these steps:
+1. Fill in the EVALITA [form](https://forms.gle/pXgWVDiMMUYDgeyM7)
+1. Join our google [group](https://groups.google.com/forum/#!forum/concretext_evalita2020)
+1. Download the trial data [here](https://forms.gle/DMXFwuRtb7k38Giq9)
+1.  More TBD!
 
 ## Important Dates
 
