@@ -1,5 +1,7 @@
 ## News
 
+**15/06/2020**: Join our Google group to receive updates and to submit questions and comments: https://groups.google.com/forum/#!forum/concretext_evalita2020
+
 **05/05/2020**: If you want to participate in the challenge, fill in this [form](https://forms.gle/pXgWVDiMMUYDgeyM7)
 
 **16/03/2020**: We are now online!
