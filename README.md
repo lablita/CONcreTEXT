@@ -1,6 +1,6 @@
 ## News
 
-**15/06/2020**: Trial Data are ready! Download them [here](https://forms.gle/DMXFwuRtb7k38Giq9)!
+**15/06/2020**: Trial Data are ready! Download them [here](https://forms.gle/Z2eGQfkGSoLTsgVr6)!
 
 **14/06/2020**: Join our Google [group](https://groups.google.com/forum/#!forum/concretext_evalita2020) to receive updates and to submit questions and comments!
 
@@ -86,7 +86,7 @@ For terms that have no annotated concreteness score in the considered sources ([
 If you want to participate, follow these steps:
 1. Fill in the EVALITA [form](https://forms.gle/pXgWVDiMMUYDgeyM7)
 1. Join our google [group](https://groups.google.com/forum/#!forum/concretext_evalita2020)
-1. Download the trial data [here](https://forms.gle/DMXFwuRtb7k38Giq9)
+1. Download the trial data [here](https://forms.gle/Z2eGQfkGSoLTsgVr6)
 1.  More TBD!
 
 ## Important Dates
