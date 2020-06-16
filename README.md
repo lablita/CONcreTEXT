@@ -1,6 +1,6 @@
 ## News
 
-**15/06/2020**: Trial Data are ready! Download them [here](https://forms.gle/p4nFWhG8W8sMeYWb8)!
+**15/06/2020**: Trial Data are ready! Download them [here](https://forms.gle/7Vdh1nFwiDUhUomx8)!
 
 **14/06/2020**: Join our Google [group](https://groups.google.com/forum/#!forum/concretext_evalita2020) to receive updates and to submit questions and comments!
 
