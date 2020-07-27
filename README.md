@@ -97,8 +97,8 @@ If you want to participate, follow these steps:
 - **4th September 2020**: development and distribution of datasets for testing
 - **11th - 17th September 2020**: evaluation windows and collection of participants results
 - **2nd October 2020**: assessment returned to participants
-- **TBD**: report due from participants
-- **30th November – 3rd December 2020**: [EVALITA 2020](http://www.evalita.it/) (co-located with CLiC-it 2020)
+- **6th November 2020**: technical reports due to organisers (camera-ready)
+- **16th – 17th December 2020**: [EVALITA 2020](http://www.evalita.it/)
 
 
 ## References
