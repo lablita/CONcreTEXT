@@ -1,5 +1,7 @@
 ## News
 
+**02/09/2020**: [Timetable updated!](#important-dates)
+
 **15/06/2020**: Trial Data are ready! Download them [here](https://forms.gle/7Vdh1nFwiDUhUomx8)!
 
 **14/06/2020**: Join our Google [group](https://groups.google.com/forum/#!forum/concretext_evalita2020) to receive updates and to submit questions and comments!
@@ -97,7 +99,9 @@ If you want to participate, follow these steps:
 - **4th September 2020**: EVALITA registration deadline
 - <del>**11th - 17th September 2020**</del> **25th September - 2nd October 2020**: evaluation windows and collection of participants results
 - **2nd October 2020**: assessment returned to participants
+- **16th October 2020**: deadline for submission of system description papers
 - **6th November 2020**: technical reports due to organisers (camera-ready)
+- **27th November 2020**: Videos presentations to the Evalita chair
 - **16th – 17th December 2020**: [EVALITA 2020](http://www.evalita.it/)
 
 
