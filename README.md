@@ -67,9 +67,11 @@ The dataset will be split into trial and test data, with a proportion of 20-80. 
 ### Data Format
 
 The dataset will be released as tab-separated files (one for Italian, one for English) containing 3 fields:
-- ID: the index of the target word in the proposed sentence;
+- TARGET: the lemma of the target word your system should assign a concreteness score to;
 - POS: the part-of-speech tag of the target word;
+- INDEX: the index of the target word in the proposed sentence;
 - TEXT: the sentence containing the target to be evaluated.
+- SCORE: empty field to be filled with your assigned concreteness score (from 1 to 7).
 
 ### Evaluation
 
