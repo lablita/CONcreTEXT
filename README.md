@@ -98,7 +98,7 @@ If you want to participate, follow these steps:
 - <del>**29th May 2020**</del> **15th June 2020**: distribution of trial data
 - **4th September 2020**: EVALITA registration deadline
 - <del>**11th - 17th September 2020**</del> **25th September - 2nd October 2020**: evaluation windows and collection of participants results
-- **2nd October 2020**: assessment returned to participants
+- **5th October 2020**: assessment returned to participants
 - **16th October 2020**: deadline for submission of system description papers
 - **6th November 2020**: technical reports due to organisers (camera-ready)
 - **27th November 2020**: Videos presentations to the Evalita chair
