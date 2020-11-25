@@ -1,6 +1,6 @@
 ## News
 
-**25/11/2020**: [CONcreTEXT Datasat Online!](https://osf.io/j4dz3/)
+**25/11/2020**: [CONcreTEXT Dataset Online!](https://osf.io/j4dz3/)
 
 **02/09/2020**: [Timetable updated!](#important-dates)
 
