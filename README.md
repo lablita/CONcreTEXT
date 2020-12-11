@@ -22,7 +22,7 @@
 - [Important Dates](#important-dates)
 - [Organisers](#organisers)
 - [Contacts](#contacts)
-- [Program] (#program)
+- [Program](#program)
 
 
 ## Task Description
