@@ -114,7 +114,7 @@ If you want to participate, follow these steps:
 
 ### Program
 
-The live session of CONcreTEXT at Evalita will be held virtually on WebEx at this link: https://unito.webex.com/webappng/sites/unito/meeting/info/683869fe40e345d8a4cdfb4d19812782
+The live session of CONcreTEXT at Evalita will be held virtually on the 17th of December 10:00-11:00 (GMT+1) on WebEx at this [link](https://unito.webex.com/webappng/sites/unito/meeting/info/683869fe40e345d8a4cdfb4d19812782)
 
 The password to access the room will be shared by Evalita chairs to registered participants. 
 
