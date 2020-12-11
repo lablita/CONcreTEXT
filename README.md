@@ -1,5 +1,12 @@
 ## News
 
+**04/12/2020**: CONcreTEXT Session@EVALITA2020 program:
+                10:00-10:10 - Welcome and quick introduction
+                10:10-10:20 - KonKretiKa
+                10:20-10:30 - Capisco
+                10:30-10:40 - Andi
+                10:40-11:00 - Question time & coffee break
+
 **25/11/2020**: [CONcreTEXT Dataset Online!](https://osf.io/j4dz3/)
 
 **02/09/2020**: [Timetable updated!](#important-dates)
@@ -106,7 +113,7 @@ If you want to participate, follow these steps:
 - **16th October 2020**: deadline for submission of system description papers
 - **6th November 2020**: technical reports due to organisers (camera-ready)
 - **27th November 2020**: Videos presentations to the Evalita chair
-- **16th – 17th December 2020**: [EVALITA 2020](http://www.evalita.it/)
+- **17th December 2020**: [EVALITA 2020](http://www.evalita.it/)
 
 
 ## References
