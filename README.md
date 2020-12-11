@@ -1,6 +1,6 @@
 ## News
 
-**04/12/2020**: [CONcreTEXT Session@EVALITA2020 program](CONcreTEXT@Evalita parallel session program)
+**04/12/2020**: [CONcreTEXT Session@EVALITA2020 program out!](#program)
 
 **25/11/2020**: [CONcreTEXT Dataset Online!](https://osf.io/j4dz3/)
 
@@ -113,11 +113,18 @@ If you want to participate, follow these steps:
 
 
 ### Program
+
+The live session of CONcreTEXT at Evalita will be held virtually on WebEx at this link: https://unito.webex.com/webappng/sites/unito/meeting/info/683869fe40e345d8a4cdfb4d19812782
+The password to access the room will be shared by Evalita chairs to registered participants. 
+
+This is the program for the one-hour parallel morning session:
  - 10:00-10:10 - Welcome and quick introduction
  - 10:10-10:20 - KonKretiKa
  - 10:20-10:30 - Capisco
  - 10:30-10:40 - Andi
  - 10:40-11:00 - Question time & coffee break
+ 
+ For info on registration and full program of Evalita, please visit the official website: http://www.evalita.it/2020
 
 ## References
 [<a name="1">1</a>] Valentina Bambini, Donatella Resta, and Mirko Grimaldi. A dataset of metaphors from the Italian literature: exploring psycholinguistic variables and the role of context. PloS one, 9(9):1–13, 2014.
